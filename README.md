@@ -19,15 +19,171 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<p>
+  <a href="https://www.java.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://hibernate.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://maven.apache.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="maven" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://www.restapitutorial.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rest/rest-original.svg" alt="restful apis" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://junit.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://angular.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://rxjs.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" alt="rxjs" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://angular.io/cli">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular cli" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://material.angular.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular material" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://ngrx.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ngrx/ngrx-original.svg" alt="ngrx" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://getbootstrap.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://devextreme.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devextreme/devextreme-original.svg" alt="devextreme" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://fontawesome.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/font-awesome/font-awesome-original.svg" alt="font awesome" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://git-scm.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij idea" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://www.postman.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://www.sourcetreeapp.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original.svg" alt="sourcetree" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://aws.amazon.com/s3/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="aws s3" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://www.thymeleaf.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thymeleaf/thymeleaf-original.svg" alt="thymeleaf" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://spring.io/projects/spring-data-jpa">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring data jpa" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://spring.io/projects/spring-framework">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring mvc" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://gradle.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://yaml.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="yaml" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://spring.io/projects/spring-security">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring security" width="40" height="40"/>
+  </a>
+</p>
+<p>
+  <a href="https://jwt.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jwt/jwt-original.svg" alt="jwt" width="40" height="40"/>
+  </a>
+</p>
+
+ </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuldippatil228&show_icons=true&locale=en&layout=compact" alt="kuldippatil228" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuldippatil228&show_icons=true&locale=en" alt="kuldippatil228" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldippatil228&" alt="kuldippatil228" /></p>
-
-
 
 
 # Hi there, I'm Kuldip Patil! 👋
